@@ -33,6 +33,11 @@
 * [Face Recognition](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
 * [Art Generation with Neural Style Transfer](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%204/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
 ### Sequence Models
-
+* [Building a RNN - Step by Step](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Sequence%20Models/Week%201/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step/Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb)
+* [Character-level Language Model - Dinosaur Island](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Sequence%20Models/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
+* [Improvise a Jazz Solo with an LSTM Network](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Sequence%20Models/Week%201/Jazz%20improvisation%20with%20LSTM/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+* [Emojify](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Sequence%20Models/Week%202/Emojify/Emojify_v2a.ipynb)
+* [Operations on Word Vectors](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Sequence%20Models/Week%202/Word%20Vector%20Representation/Operations_on_word_vectors_v2a.ipynb)
+* [Machine Translation with Attention](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Sequence%20Models/Week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
 ## Certificate
 ![alt-text](https://github.com/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/certificate.png "certificate")
