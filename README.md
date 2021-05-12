@@ -26,8 +26,7 @@
 ### Convolutional Neural Networks
 * [Convolutional Neural Networks: Application](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application_v1a.ipynb)
 * [Convolutional Neural Networks: Step by Step](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v2a.ipynb)
-* [Keras Tutorial - Happy House](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%202/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
-* [Keras tutorial - Emotion Detection in Images of Faces](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%202/KerasTutorial/Keras_Tutorial_v2a.ipynb)
+* [Keras Tutorial - Happy House](https://github.com/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%202/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v1.ipynb)
 * [Residual Nets](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%202/ResNets/Residual_Networks_v2a.ipynb)
 * [Autonomous Driving - Car Detection](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%203/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
 * [Face Recognition](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Convolutional%20Neural%20Networks/Week%204/Face%20Recognition/Face_Recognition_v3a.ipynb)
