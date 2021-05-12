@@ -11,6 +11,12 @@
 * Use strategies for reducing errors in ML systems, understand complex ML settings, and apply end-to-end, transfer, and multi-task learning.
 * Build a Convolutional Neural Network, apply it to visual detection and recognition tasks, use neural style transfer to generate art, and apply these algorithms to image, video, and other 2D/3D data.
 * Build and train Recurrent Neural Networks and its variants (GRUs, LSTMs), apply RNNs to character-level language modeling, work with NLP and Word Embeddings, and use HuggingFace tokenizers and transformers to perform Named Entity Recognition and Question Answering.
-
+## Projects
+### Neural Networks and Deep Learning
+* [Python Basics with Numpy](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Python%20Basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
+* [Planar data classification with one hidden layer](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+* [Building your Deep Neural Network - Step by Step](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+* [Deep Neural Network for Image Classification](https://nbviewer.jupyter.org/github/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20Application_%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
+* 
 ## Certificate
 ![alt-text](https://github.com/mgonzaleyub/Deep-Learning-AI-Specialization/blob/main/certificate.png "certificate")
