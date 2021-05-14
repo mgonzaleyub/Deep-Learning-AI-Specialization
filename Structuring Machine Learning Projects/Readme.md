@@ -2,35 +2,8 @@
 
 This is the third course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
-## Table of contents
+*This summary was made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017, but I put it here because it's far better than mine and for future references in my ML journey :)*
 
-* [Structuring Machine Learning Projects](#structuring-machine-learning-projects)
-   * [Table of contents](#table-of-contents)
-   * [Course summary](#course-summary)
-   * [ML Strategy 1](#ml-strategy-1)
-      * [Why ML Strategy](#why-ml-strategy)
-      * [Orthogonalization](#orthogonalization)
-      * [Single number evaluation metric](#single-number-evaluation-metric)
-      * [Satisfying and Optimizing metric](#satisfying-and-optimizing-metric)
-      * [Train/dev/test distributions](#traindevtest-distributions)
-      * [Size of the dev and test sets](#size-of-the-dev-and-test-sets)
-      * [When to change dev/test sets and metrics](#when-to-change-devtest-sets-and-metrics)
-      * [Why human-level performance?](#why-human-level-performance)
-      * [Avoidable bias](#avoidable-bias)
-      * [Understanding human-level performance](#understanding-human-level-performance)
-      * [Surpassing human-level performance](#surpassing-human-level-performance)
-      * [Improving your model performance](#improving-your-model-performance)
-   * [ML Strategy 2](#ml-strategy-2)
-      * [Carrying out error analysis](#carrying-out-error-analysis)
-      * [Cleaning up incorrectly labeled data](#cleaning-up-incorrectly-labeled-data)
-      * [Build your first system quickly, then iterate](#build-your-first-system-quickly-then-iterate)
-      * [Training and testing on different distributions](#training-and-testing-on-different-distributions)
-      * [Bias and Variance with mismatched data distributions](#bias-and-variance-with-mismatched-data-distributions)
-      * [Addressing data mismatch](#addressing-data-mismatch)
-      * [Transfer learning](#transfer-learning)
-      * [Multi-task learning](#multi-task-learning)
-      * [What is end-to-end deep learning?](#what-is-end-to-end-deep-learning)
-      * [Whether to use end-to-end deep learning](#whether-to-use-end-to-end-deep-learning)
 
 ## Course summary
 
@@ -437,13 +410,3 @@ Here are the course summary as its given on the course [link](https://www.course
   - Key question: Do you have sufficient data to learn a function of the **complexity** needed to map x to y?
   - Use ML/DL to learn some individual components.
   - When applying supervised learning you should carefully choose what types of X to Y mappings you want to learn depending on what task you can get data for.
-
-
-
-
-
-
-
-<br><br>
-<br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
