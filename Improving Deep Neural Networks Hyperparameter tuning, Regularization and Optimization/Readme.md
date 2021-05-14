@@ -833,15 +833,3 @@ _**Side notes:**_
   - First one to win ImageNet
   - Works in PaddlePaddle deep learning platform.
 
-
-
-
-
-
-
-
-
-
-<br><br>
-<br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
