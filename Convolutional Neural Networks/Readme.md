@@ -2,61 +2,7 @@
 
 This is the fourth course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
-## Table of contents
-
-* [Convolutional Neural Networks](#convolutional-neural-networks)
-   * [Table of contents](#table-of-contents)
-   * [Course summary](#course-summary)
-   * [Foundations of CNNs](#foundations-of-cnns)
-      * [Computer vision](#computer-vision)
-      * [Edge detection example](#edge-detection-example)
-      * [Padding](#padding)
-      * [Strided convolution](#strided-convolution)
-      * [Convolutions over volumes](#convolutions-over-volumes)
-      * [One Layer of a Convolutional Network](#one-layer-of-a-convolutional-network)
-      * [A simple convolution network example](#a-simple-convolution-network-example)
-      * [Pooling layers](#pooling-layers)
-      * [Convolutional neural network example](#convolutional-neural-network-example)
-      * [Why convolutions?](#why-convolutions)
-   * [Deep convolutional models: case studies](#deep-convolutional-models-case-studies)
-      * [Why look at case studies?](#why-look-at-case-studies)
-      * [Classic networks](#classic-networks)
-      * [Residual Networks (ResNets)](#residual-networks-resnets)
-      * [Why ResNets work](#why-resnets-work)
-      * [Network in Network and 1×1 convolutions](#network-in-network-and-1-X-1-convolutions)
-      * [Inception network motivation](#inception-network-motivation)
-      * [Inception network (GoogleNet)](#inception-network-googlenet)
-      * [Using Open-Source Implementation](#using-open-source-implementation)
-      * [Transfer Learning](#transfer-learning)
-      * [Data Augmentation](#data-augmentation)
-      * [State of Computer Vision](#state-of-computer-vision)
-   * [Object detection](#object-detection)
-      * [Object Localization](#object-localization)
-      * [Landmark Detection](#landmark-detection)
-      * [Object Detection](#object-detection-1)
-      * [Convolutional Implementation of Sliding Windows](#convolutional-implementation-of-sliding-windows)
-      * [Bounding Box Predictions](#bounding-box-predictions)
-      * [Intersection Over Union](#intersection-over-union)
-      * [Non-max Suppression](#non-max-suppression)
-      * [Anchor Boxes](#anchor-boxes)
-      * [YOLO Algorithm](#yolo-algorithm)
-      * [Region Proposals (R-CNN)](#region-proposals-r-cnn)
-   * [Special applications: Face recognition &amp; Neural style transfer](#special-applications-face-recognition--neural-style-transfer)
-      * [Face Recognition](#face-recognition)
-         * [What is face recognition?](#what-is-face-recognition)
-         * [One Shot Learning](#one-shot-learning)
-         * [Siamese Network](#siamese-network)
-         * [Triplet Loss](#triplet-loss)
-         * [Face Verification and Binary Classification](#face-verification-and-binary-classification)
-      * [Neural Style Transfer](#neural-style-transfer)
-         * [What is neural style transfer?](#what-is-neural-style-transfer)
-         * [What are deep ConvNets learning?](#what-are-deep-convnets-learning)
-         * [Cost Function](#cost-function)
-         * [Content Cost Function](#content-cost-function)
-         * [Style Cost Function](#style-cost-function)
-         * [1D and 3D Generalizations](#1d-and-3d-generalizations)
-   * [Extras](#extras)
-      * [Keras](#keras)
+*This summary was made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017, but I put it here because it's far better than mine and for future references in my ML journey :)*
 
 ## Course summary
 
@@ -1381,14 +1327,3 @@ Here is the course summary as given on the course [link](https://www.coursera.or
 - To choose the Keras backend you should go to `$HOME/.keras/keras.json` and change the file to the desired backend like Theano or Tensorflow or whatever backend you want.
 - After you create the model you can run it in a tensorflow session without compiling, training, and testing capabilities.
 - You can save your model with `model_save` and load your model using `model_load ` This will save your whole trained model to disk with the trained weights.
-
-
-
-
-
-
-
-
-<br><br>
-<br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
