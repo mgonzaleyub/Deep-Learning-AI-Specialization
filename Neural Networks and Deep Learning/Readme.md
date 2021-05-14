@@ -2,50 +2,7 @@
 
 This is the first course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [DeepLearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
-## Table of contents
-
-* [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
-   * [Table of contents](#table-of-contents)
-   * [Course summary](#course-summary)
-   * [Introduction to deep learning](#introduction-to-deep-learning)
-      * [What is a (Neural Network) NN?](#what-is-a-neural-network-nn)
-      * [Supervised learning with neural networks](#supervised-learning-with-neural-networks)
-      * [Why is deep learning taking off?](#why-is-deep-learning-taking-off)
-   * [Neural Networks Basics](#neural-networks-basics)
-      * [Binary classification](#binary-classification)
-      * [Logistic regression](#logistic-regression)
-      * [Logistic regression cost function](#logistic-regression-cost-function)
-      * [Gradient Descent](#gradient-descent)
-      * [Derivatives](#derivatives)
-      * [More Derivatives examples](#more-derivatives-examples)
-      * [Computation graph](#computation-graph)
-      * [Derivatives with a Computation Graph](#derivatives-with-a-computation-graph)
-      * [Logistic Regression Gradient Descent](#logistic-regression-gradient-descent)
-      * [Gradient Descent on m Examples](#gradient-descent-on-m-examples)
-      * [Vectorization](#vectorization)
-      * [Vectorizing Logistic Regression](#vectorizing-logistic-regression)
-      * [Notes on Python and NumPy](#notes-on-python-and-numpy)
-      * [General Notes](#general-notes)
-   * [Shallow neural networks](#shallow-neural-networks)
-      * [Neural Networks Overview](#neural-networks-overview)
-      * [Neural Network Representation](#neural-network-representation)
-      * [Computing a Neural Network's Output](#computing-a-neural-networks-output)
-      * [Vectorizing across multiple examples](#vectorizing-across-multiple-examples)
-      * [Activation functions](#activation-functions)
-      * [Why do you need non-linear activation functions?](#why-do-you-need-non-linear-activation-functions)
-      * [Derivatives of activation functions](#derivatives-of-activation-functions)
-      * [Gradient descent for Neural Networks](#gradient-descent-for-neural-networks)
-      * [Random Initialization](#random-initialization)
-   * [Deep Neural Networks](#deep-neural-networks)
-      * [Deep L-layer neural network](#deep-l-layer-neural-network)
-      * [Forward Propagation in a Deep Network](#forward-propagation-in-a-deep-network)
-      * [Getting your matrix dimensions right](#getting-your-matrix-dimensions-right)
-      * [Why deep representations?](#why-deep-representations)
-      * [Building blocks of deep neural networks](#building-blocks-of-deep-neural-networks)
-      * [Forward and Backward Propagation](#forward-and-backward-propagation)
-      * [Parameters vs Hyperparameters](#parameters-vs-hyperparameters)
-      * [What does this have to do with the brain](#what-does-this-have-to-do-with-the-brain)
-   * [Extra: Ian Goodfellow interview](#extra-ian-goodfellow-interview)
+*This summary was made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017, but I put it here because it's far better than mine and for future references in my ML journey :)*
 
 ## Course summary
 
@@ -695,10 +652,3 @@ Here are the course summary as its given on the course [link](https://www.course
 - Ian tells all who wants to get into AI to get a Ph.D. or post your code on Github and the companies will find you.
 - Ian thinks that we need to start anticipating security problems with ML now and make sure that these algorithms are secure from the start instead of trying to patch it in retroactively years later.
 
-
-
-
-
-<br><br>
-<br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
