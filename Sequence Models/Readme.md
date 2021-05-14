@@ -2,54 +2,7 @@
 
 This is the fifth and final course of the deep learning specialization at [Coursera](https://www.coursera.org/specializations/deep-learning) which is moderated by [deeplearning.ai](http://deeplearning.ai/). The course is taught by Andrew Ng.
 
-## Table of contents
-* [Sequence Models](#sequence-models)
-   * [Table of contents](#table-of-contents)
-   * [Course summary](#course-summary)
-   * [Recurrent Neural Networks](#recurrent-neural-networks)
-      * [Why sequence models](#why-sequence-models)
-      * [Notation](#notation)
-      * [Recurrent Neural Network Model](#recurrent-neural-network-model)
-      * [Backpropagation through time](#backpropagation-through-time)
-      * [Different types of RNNs](#different-types-of-rnns)
-      * [Language model and sequence generation](#language-model-and-sequence-generation)
-      * [Sampling novel sequences](#sampling-novel-sequences)
-      * [Vanishing gradients with RNNs](#vanishing-gradients-with-rnns)
-      * [Gated Recurrent Unit (GRU)](#gated-recurrent-unit-gru)
-      * [Long Short Term Memory (LSTM)](#long-short-term-memory-lstm)
-      * [Bidirectional RNN](#bidirectional-rnn)
-      * [Deep RNNs](#deep-rnns)
-      * [Back propagation with RNNs](#back-propagation-with-rnns)
-   * [Natural Language Processing &amp; Word Embeddings](#natural-language-processing--word-embeddings)
-      * [Introduction to Word Embeddings](#introduction-to-word-embeddings)
-         * [Word Representation](#word-representation)
-         * [Using word embeddings](#using-word-embeddings)
-         * [Properties of word embeddings](#properties-of-word-embeddings)
-         * [Embedding matrix](#embedding-matrix)
-      * [Learning Word Embeddings: Word2vec &amp; GloVe](#learning-word-embeddings-word2vec--glove)
-         * [Learning word embeddings](#learning-word-embeddings)
-         * [Word2Vec](#word2vec)
-         * [Negative Sampling](#negative-sampling)
-         * [GloVe word vectors](#glove-word-vectors)
-      * [Applications using Word Embeddings](#applications-using-word-embeddings)
-         * [Sentiment Classification](#sentiment-classification)
-         * [Debiasing word embeddings](#debiasing-word-embeddings)
-   * [Sequence models &amp; Attention mechanism](#sequence-models--attention-mechanism)
-      * [Various sequence to sequence architectures](#various-sequence-to-sequence-architectures)
-         * [Basic Models](#basic-models)
-         * [Picking the most likely sentence](#picking-the-most-likely-sentence)
-         * [Beam Search](#beam-search)
-         * [Refinements to Beam Search](#refinements-to-beam-search)
-         * [Error analysis in beam search](#error-analysis-in-beam-search)
-         * [BLEU Score](#bleu-score)
-         * [Attention Model Intuition](#attention-model-intuition)
-         * [Attention Model](#attention-model)
-      * [Speech recognition - Audio data](#speech-recognition---audio-data)
-         * [Speech recognition](#speech-recognition)
-         * [Trigger Word Detection](#trigger-word-detection)
-   * [Extras](#extras)
-      * [Machine translation attention model (From notebooks)](#machine-translation-attention-model-from-notebooks)
-
+*This summary was made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2018, but I put it here because it's far better than mine and for future references in my ML journey :)*
 
 ## Course summary
 Here are the course summary as its given on the course [link](https://www.coursera.org/learn/nlp-sequence-models):
@@ -932,8 +885,3 @@ Here are the course summary as its given on the course [link](https://www.course
   ![](Images/84.png)
   - The diagram uses a `RepeatVector` node to copy s<sup>`<t-1>`</sup>'s value T<sub>x</sub> times, and then `Concatenation` to concatenate s<sup>`<t-1>`</sup> and a<sup>`<t>`</sup> to compute e<sup>`<t, t>`</sup>, which is then passed through a softmax to compute &alpha;<sup>`<t, t>`</sup>.
 
-
-
-<br><br>
-<br><br>
-These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2018
